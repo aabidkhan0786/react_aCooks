@@ -1,7 +1,7 @@
 import React from 'react'
 import banner from '../src/images/banner3.png'
 
-import food1 from '../src/images/food1.gif'
+
 import "./index.css"
 
 
