@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react_aCooks/static/css/main.1ff91d9b.chunk.css",
+    "main.js": "/react_aCooks/static/js/main.2c84638a.chunk.js",
+    "main.js.map": "/react_aCooks/static/js/main.2c84638a.chunk.js.map",
+    "runtime-main.js": "/react_aCooks/static/js/runtime-main.739d2f98.js",
+    "runtime-main.js.map": "/react_aCooks/static/js/runtime-main.739d2f98.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/react_aCooks/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4374103c.chunk.js": "/react_aCooks/static/js/2.4374103c.chunk.js",
+    "static/js/2.4374103c.chunk.js.map": "/react_aCooks/static/js/2.4374103c.chunk.js.map",
+    "index.html": "/react_aCooks/index.html",
+    "precache-manifest.54413ba86d0844146f1569e03e9cd8cf.js": "/react_aCooks/precache-manifest.54413ba86d0844146f1569e03e9cd8cf.js",
+    "service-worker.js": "/react_aCooks/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/react_aCooks/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.1ff91d9b.chunk.css.map": "/react_aCooks/static/css/main.1ff91d9b.chunk.css.map",
+    "static/js/2.4374103c.chunk.js.LICENSE.txt": "/react_aCooks/static/js/2.4374103c.chunk.js.LICENSE.txt",
+    "static/media/banner3.png": "/react_aCooks/static/media/banner3.18699e6c.png",
+    "static/media/food.gif": "/react_aCooks/static/media/food.979515a5.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.739d2f98.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4374103c.chunk.js",
+    "static/css/main.1ff91d9b.chunk.css",
+    "static/js/main.2c84638a.chunk.js"
+  ]
+}
